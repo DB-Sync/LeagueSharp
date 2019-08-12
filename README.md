@@ -1,0 +1,3 @@
+# LeagueSharp Assemblies
+
+All Outdated.
